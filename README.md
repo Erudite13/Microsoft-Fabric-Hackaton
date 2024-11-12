@@ -1,5 +1,3 @@
-# Microsoft-Fabric-Hackaton
-
 # Fueling Innovation and efficiency using Microsoft Fabric
 ![The solution Banner](./images/header.png)
 
