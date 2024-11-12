@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Microsoft-Fabric-Hackaton
 =======
 # Fueling Innovation and efficiency using Microsoft Fabric
@@ -99,13 +98,10 @@ Before running the project, make sure you have the following prerequisites:
 
 ## Contributors
 
-- Purushottam Darshankar ([GitHub Profile](https://github.com/darshanpv))
-- Nidhi Neema
-- Vishal Kandale
+- Rudra Srivastava
+- Piyush Kumar Singh
+- Varun Sehgal
+- Shivnsh Shukla
 
 ## Contact
-
 If you have any questions, suggestions, or would like to discuss this solution further, feel free to get in touch with me.
-
-- [MS Fabric Community](https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/685305)
->>>>>>> master
